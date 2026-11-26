@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.cinevagroup.cinevastream",
+      "sha256_cert_fingerprints": [
+        "26:8F:6C:4D:35:FA:32:A3:98:5B:79:56:D1:46:27:8F:33:A7:1E:92:1B:77:1F:07:5E:BC:1F:34:8E:4B:50:2E",
+        "98:6D:33:59:3E:37:A3:3F:46:5C:BA:BD:69:1F:9D:66:07:33:74:F9:B6:C6:B2:E7:95:29:FA:D9:BD:77:1D:13"
+      ]
+    }
+  }
+]
